@@ -1,0 +1,44 @@
+#pythhon variables
+
+name = "Rama"
+age =  25
+marks = 82.5
+
+print(name)
+print(age)
+print(marks)
+#add
+a = 10
+d = 20
+c = a+d
+print(c) 
+
+
+
+
+x=y=z=25
+print(x,y,z,) 
+
+
+#comments in phython 
+
+#single line comments 
+
+# multiple line comments are denoted by ''' triple quotes '''
+
+
+#data types 
+
+
+d=10
+a=2.0
+#e=x+5j 
+#f = True  
+
+print(type(d))
+
+a=2.0
+e=x+5j
+f = True 
+print(type(a))
+
